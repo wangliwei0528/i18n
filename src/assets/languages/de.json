@@ -1,0 +1,135 @@
+{
+    "lang":{
+        "chinese":"中文",
+        "english":"English",
+        "deutsch":"Deutsch",
+        "français":"français",
+        "español":"español"
+    },
+    "title": {
+        "home": "Produkts",
+        "case": "Case",
+        "price": "Preise",
+        "download": "Download",
+        "help": "Hilfe",
+        "contact": "Kontakt"
+      },
+    "home":{
+        "text1":"Fingerprint Guarder",
+        "text2":"Marktführer in der Anti-Fingerabdruck-Detektion",
+        "btn-left":"Kauf",
+        "btn-right":"Download",
+        "drop":"Schieben Sie die Maus nach unten",
+        "title1":"Grundlegende Funktionen",
+        "title2":"Vorteile des Produkts",
+        "item1":"Fingerabdruck des Browsers",
+        "desc1":"Für jeden Start wird ein neuer Browser-Fingerprint bereitgestellt",
+        "item2":"Erkennung von Fingerabdrücken",
+        "desc2":"Die neueste Anti-Fingerabdruck-Detektionstechnologie",
+        "item3":"Unterstützung für Multi-Task-Szenario",
+        "desc3":"Unterstützung von Mainstream-Fragebögen und Aktionsszenarien der Werbebündnis",
+        "item4":"Hohe Übertragungsrate",
+        "desc4":"Anti-Fingerabdruck-Erkennung zur Verbesserung der Durchlässigkeit von Aufgaben",
+        "item5":"Unterstützung für IP-Proxy",
+        "desc5":"Anpassung an den Mainstream-Proxy-IP auf dem Markt",
+        "item6":"Automatische Bedienung",
+        "desc6":"Bieten Sie Browser-Automation-Bedienschema an",
+        "link":"Links",
+        "select":"wählen"
+    },
+    "case":{
+        "case-title1":"Aufgabe des Fragebogens",
+        "case-title2":"Aufgabe des Werbebündnisses",
+        "case-title3":"Marketing der Allianz",
+        "case-title4":"Internet Wurm",
+        "case-desc1":"Jede Fragebogenaufgabe kann einen neuen und einzigartigen Browser-Fingerprint erhalten",
+        "case-desc2":"Geben Sie für jede Aufgabe einen neuen und einzigartigen Browser-Fingerprint",
+        "case-desc3":"Die Nutzung mehrerer Werbekonten, Chargenbetrieb, Verbesserung des Lieferflusses, Verbesserung der ROI",
+        "case-desc4":"Bereitstellen von Fingerabdruckaufruf-Schnittstelle, schnelle Entwicklung"
+
+    },
+    "price":{
+        "title1":"Standard Edition",
+        "title2":"Benutzerdefinierte Version",
+        "desc1":"$500 / 1 / 1 Jahr",
+        "desc2":"1 Aktivierungscode / zur gleichen Zeit / 1 Browser",
+        "desc3":" Mehrere Browser können nicht gleichzeitig mit demselben Aktivierungscode arbeiten",
+        "desc4":"Das Plug-in-Symbol ist grün für normalen Betrieb und rot für Fehler (der Browser muss möglicherweise einige Sekunden wegen Ladeverzögerung beim Starten warten)",
+        "desc5":"Bereitstellung einer zielgerichteten Antidetektionsfunktion für die Zielwebsite",
+        "desc6":"Exklusiver Kundenberater：service@fingerprintguarder.com",
+        "left-btn":"Aktivierungscode des Käufes",
+        "right-btn":"Kontaktieren Sie den Kundendienst"
+    },
+    "download":{
+        "download1":"Google Browser Version herunterladen",
+        "download2":"Download der Version von Firefox"
+    },
+    "help":{
+        "title":"Willkommen im Fingerabdruckschutz-Hilfezentrum. Hier sind die Anweisungen für die Verwendung des Fingerabdruckschutzes. Sie können uns auch weiter kontaktieren（service@fingerprintguarder.com）Mehr Hilfe。",
+        "step":"Schritte verwenden",
+        "step1":"Kauf für Aktivierungscode ",
+        "step2":"Laden und entpacken Sie das Installationspaket ",
+        "step3":"geöffnet chrome Eingabe der Adressleiste chrome://extensions/, Öffnen Sie den Entwicklermodus rechts ",
+        "step4":"Klicken Sie auf das dekomprimierte Erweiterungsprogramm und wählen Sie den Ordner nach dem Dekomprimieren des Installationspakets",
+        "step5":"Eingabe des Aktivierungscodes zur Aktivierung ",
+        "step6":"Starten Sie den Browser neu, um die geänderten Fingerabdruckinformationen anzuzeigen"
+    },
+    "contact":{
+        "contact1":"Unsere Arbeitszeit beträgt von Montag bis Freitag 9:00 a.m. bis 6:00 p.m.",
+        "contact2":"Wirtschaftliche Zusammenarbeit：business@fingerprintguarder.com ",
+        "contact3":"Beschwerden und Vorschläge：suggestion@fingerprintguarder.com",
+        "contact4":"Kundendienst：service@fingerprintguarder.com ",
+        "contact5":"Benutzer sind herzlich willkommen, uns per E-Mail zu kontaktieren "
+    },
+    "agreement":{
+        "title":"Zustimmung des Benutzers",
+        "line1":"1. Willkommen bei der Nutzervereinbarung von Fingerprint Guard.",
+        "line2":"Diese Vereinbarung ist eine Vereinbarung, die Ihnen und dem Software-Benutzer, d.h. dem Eigentümer und Betreiber jeder herunterladbaren Software (Software) und für die Nutzung aktiviert ist.",
+        "line3":"Im protokoll bezieht sich der ausdruck 'fingerabdruck-wachen', 'wir' und 'unser' auf den kontext, in dem diese wörter verwendet werden.",
+        "line4":"Wenn sie auf 'ich bin einverstanden' klicken, eine software herunterladen Oder aktivieren, stimmen sie auch mit dem protokoll, unseren nutzungsbedingungen und den beschränkungen unserer datenschutzrichtlinien überein",
+        "line5":"2.Ah, es ist zeit, die firma zu gründen.",
+        "line6":"Nach der registrierung und der entsprechenden gebühren für unsere software genehmigen wir ihnen erforderlichenfalls eine privatperson und nicht privatwirtschaftliche und nicht privatwirtschaftliche software betreffende, umkehrbare und eingeschränkte erlaubnis, die sie benutzen können, um eine kopie unserer software auf einen computer Oder ein gerät lhrer wahl herunterzuladen. Du darfst deine erlaubnis mit niemandem teilen.",
+        "line7":"Sie als benutzer bekommen kein recht auf ein teil der software;",
+        "line8":"Ihr habt nur die genehmigung erhalten, die widerrufen werden kann.",
+        "line9":"Ihre genehmigung Oder zugriff auf die software hat folgende anforderungen zu erfüllen:",
+        "line10":"·Sie dürfen die software nicht dekompilieren Oder ein teil davon aus irgendeinem grund neu kompilieren, reparieren, modifizieren, vermieten, verkaufen, leasen, leihen, vertreiben, vertreiben Oder verbessern Das lizenzvergabe Oder jeder zugriff auf die software hat folgende anforderungen zu erfüllen: ",
+        "line11":"·Sie dürfen ihre genehmigung Oder zugriffsrechte an einer anderen partei nur in bezug auf dieses abkommen Oder die datenschutzbestimmungen Oder einen zusätzlichen vertrag teilen Ihre genehmigung Oder zugriff auf die software hat folgende anforderungen zu erfüllen:",
+        "line12":"·Sie dürfen das geistige eigentum, die privatsphäre Oder die rechte Von dritten mit dieser software weder verletzen noch verletzen. Das lizenzvergabe Oder jeder zugriff auf die software hat folgende anforderungen zu erfüllen:",
+        "line13":"·Sie dürfen bei der anwendung dieser software kein gesetz, keine vorschriften Oder verfahren verletzen, in denen sie Oder einer der gerichtsbarkeiten, in die sie sich befinden, vertreten sind",
+        "line14":"·Sie verletzen keine zusätzliche vorschrift in unserer benutzung",
+        "line15":"·Sie dürfen unsere software nur über einen speziellen kanal benutzen.",
+        "line16":"·Sie dürfen dieses programm nicht auf computern benutzen, die für die operation kernanlagen, lebenserhaltungen Oder sonstige leben Oder vermögenswerte verwendet werden, Von denen eine gefahr für ihr leben Oder ihr eigentum ausgeht",
+        "line17":"Sie dürfen die software nicht verkaufen, vermieten, ausleihen, verteilen, weitergeben, weitergeben Oder zugriff auf sie Oder erzielen durch die nutzung Oder bereitstellung der software einkünfte, es sei denn, die funktionalität der software der firma ermöglicht es. Aufgrund unserer vernünftigen beurteilung können wir die lizenzvergabe für die nutzung der software widerrufen, wenn wir glauben, dass sie die vorgeschriebenen beschränkungen verletzt haben. Des weiteren können wir ihre lizenzfreigabe widerrufen Oder ihnen den zugang zu unserer software einschränken, wenn wir das gefühl haben, dass ihre handlungen unserer Oder unserer benutzer schaden könnten. Wenn wir sie nicht widerrufen Oder ihnen den zugang erschweren, so entheben wir sie nicht ihrer handlung."
+    },
+    "success":{
+        "success":"Zahlung erfolgreich",
+        "orderNumber":"Nummer der Bestellung：",
+        "time":"Zeit der Zahlung:",
+        "code":"Das System hat den Aktivierungscode an Ihre Bestell-E-Mail geschickt, bitte überprüfen！",
+        "kefu":" Bei Fragen wenden Sie sich bitte an den Kundendienst：service@fingerprintguarder.com"
+    },
+    "footer": {
+        "nav": "Navigation",
+        "legal":"Rechtliche Erklärung",
+        "agreement":"Zustimmung des Benutzers",
+        "contact":"Kontaktieren Sie uns",
+        "cooperation":"Wirtschaftliche Zusammenarbeit",
+        "suggestions":"Beschwerden und Vorschläge",
+        "customer_service":"Kundendienst"
+    },
+    "model":{
+        "title":"Paket mit Aktivierungscode",
+        "number":"Anzahl der Aktivierungscodes:",
+        "placeholder":"Bitte überprüfen Sie den Aktivierungscode!",
+        "email":"Briefkasten：",
+        "useType":"Standzeit des Dienstes：",
+        "6_months":"6 Monate",
+        "12_months":"12 Monate",
+        "amount":"Betrag der Zahlung:",
+        "methods":"Zahlungsmethode:",
+        "pay":"Zu zahlen"
+    }
+
+   
+
+}

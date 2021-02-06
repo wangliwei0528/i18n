@@ -1,0 +1,135 @@
+{
+    "lang":{
+        "chinese":"中文",
+        "english":"English",
+        "deutsch":"Deutsch",
+        "français":"français",
+        "español":"español"
+    },
+    "title": {
+        "home": "Produits",
+        "case": "CAS",
+        "price": "Régime des prix",
+        "download": "Télécharger",
+        "help": "Aide",
+        "contact": "Contact"
+      },
+    "home":{
+        "text1":"Fingerprint Guarder",
+        "text2":"Leader du secteur de la protection contre les empreintes digitales",
+        "btn-left":"Achats",
+        "btn-right":"Télécharger",
+        "drop":"Défiler la souris vers le bas",
+        "title1":"Fonctions essentielles",
+        "title2":"Avantages des produits",
+        "item1":"Empreintes digitales du navigateur",
+        "desc1":"Les empreintes digitales d’un navigateur entièrement nouveau sont fournies à chaque lancement",
+        "item2":"Protection contre la détection des empreintes digitales",
+        "desc2":"Les dernières technologies anti-empreintes digitales",
+        "item3":"Soutien à des scénarios multitâches",
+        "desc3":"Soutien à l’intégration de questionnaires et de scénarios de missions d’alliance",
+        "item4":"Taux de réussite élevé pour les tâches",
+        "desc4":"La protection contre les empreintes digitales améliore le taux de réussite de la mission",
+        "item5":"Soutien aux agents IP",
+        "desc5":"Adaptation des principaux agents IP sur le marché",
+        "item6":"Opérations automatisées",
+        "desc6":"Une solution d’exploitation automatisée du navigateur est proposée",
+        "link":"Liens d’amitié",
+        "select":"Sélectionner"
+    },
+    "case":{
+        "case-title1":"Tâches du questionnaire",
+        "case-title2":"Tâches du consortium de publicité",
+        "case-title3":"Marketing de l’union",
+        "case-title4":"cyber-reptiles",
+        "case-desc1":"Les empreintes digitales d’un navigateur nouveau et unique peuvent être obtenues pour chaque tâche de questionnaire",
+        "case-desc2":"Des empreintes digitales entièrement nouvelles et uniques pour chaque tâche",
+        "case-desc3":"L’utilisation de plusieurs comptes de publicité pour la mise en ligne permet d’opérer en vrac, d’améliorer le débit de mise en ligne et d’accroître le rendement des investissements",
+        "case-desc4":"Une interface d’appel fournissant des empreintes digitales prêtes à être utilisées, rapidement développée"
+
+    },
+    "price":{
+        "title1":"carrera",
+        "title2":"Edition exclusive sur mesure",
+        "desc1":"500 $par pièce/an",
+        "desc2":"1 code d’activation/simultanément /1 navigateur utilisé",
+        "desc3":" Plusieurs navigateurs ne peuvent pas fonctionner en même temps avec le même code d’activation",
+        "desc4":"L’icône du plug-in est en vert pour le bon fonctionnement et en rouge pour le mauvais fonctionnement (le navigateur peut attendre quelques secondes au démarrage en raison du retard de chargement).",
+        "desc5":"Des fonctions de détection ciblées sont prévues pour les sites cibles",
+        "desc6":"Conseiller en service à la clientèle exclusif：service@fingerprintguarder.com",
+        "left-btn":"Code d’activation acheté",
+        "right-btn":"Contact avec le service clientèle"
+    },
+    "download":{
+        "download1":"Télécharger la version du navigateur google",
+        "download2":"Télécharger la version du navigateur firefox"
+    },
+    "help":{
+        "title":"Bienvenue au centre d’assistance pour les gardiens-empreintes digitales, où vous trouverez des instructions pour les gardiens-empreintes digitales, et où vous pouvez également nous contacter à l’adresse service@fingerprintguarder.com pour plus d’informations.",
+        "step":"Étapes d’utilisation",
+        "step1":"Achetez le code d’activation d’acquisition ",
+        "step2":"Télécharger et extraire le paquet d’installation",
+        "step3":"Ouvrez la barre d’adresses chrome et tapez chrome://extensions/ et ouvrez le mode developer à droite",
+        "step4":"Cliquez sur charger l’extension décompressée et sélectionnez le dossier après décompression du paquet d’installation",
+        "step5":"Un code d’activation est introduit pour l’activation ",
+        "step6":"Redémarrer le navigateur pour voir les informations dactyloscopiques modifiées"
+    },
+    "contact":{
+        "contact1":"Nous travaillons du lundi au vendredi de 9 h 00 à 18 h 00",
+        "contact2":"Coopération entre entreprises：business@fingerprintguarder.com ",
+        "contact3":"à être au service dudéveloppement：suggestion@fingerprintguarder.com",
+        "contact4":"Services à la clientèle：service@fingerprintguarder.com ",
+        "contact5":"Les utilisateurs sont invités à nous envoyer un courriel pour contacter le service clientèle "
+    },
+    "agreement":{
+        "title":"Accords avec les utilisateurs",
+        "line1":"1. Bienvenue au protocole utilisateur de fingerprint guard.",
+        "line2":"Le présent accord est un accord sous licence pour vous et pour l’utilisateur du logiciel, c’est-à-dire le propriétaire et l’exploitant de tout logiciel téléchargeable («logiciel») et activé pour être utilisé.",
+        "line3":"Aux fins du présent accord, les termes «gardiens des empreintes digitales», «nous» et «nos» désignent nos gardiens des empreintes digitales dans le contexte de l’utilisation de ces termes.",
+        "line4":"En cliquant sur «je suis d’accord», en téléchargeant tout logiciel ou en activant l’utilisation, vous acceptez d’être lié par le présent accord, nos conditions d’utilisation et notre politique de protection de la vie privée.",
+        "line5":"2.Licences accordées",
+        "line6":"Après enregistrement et paiement de la redevance appropriée pour nos logiciels, nous vous accordons, si nécessaire, une licence personnelle, non commerciale, non exclusive, révocable et limitée pour télécharger une copie de nos logiciels sur n’importe quel ordinateur ou appareil. Vous ne pouvez partager votre licence avec personne.",
+        "line7":"En tant qu’utilisateur, vous n’obtenez aucun droit de propriété sur une partie quelconque du logiciel;",
+        "line8":"Vous recevrez simplement la licence révocable mentionnée ci-dessus.",
+        "line9":"Votre licence ou votre accès au logiciel doivent satisfaire aux exigences suivantes:",
+        "line10":"·Vous ne pouvez, pour quelque raison que ce soit, décompiler, inverser l’ingénierie, désassembler, modifier, louer, vendre, traduire, louer, prêter, distribuer ou créer des œuvres dérivées ou des améliorations du logiciel ou de toute partie de celui-ci. La licence ou l’accès au logiciel doit satisfaire aux exigences suivantes:",
+        "line11":"·Vous ne partagerez pas votre licence ou vos droits d’accès avec aucune autre partie, à l’exception des dispositions du présent accord, de la politique de protection de la vie privée ou de tout accord additionnel. Votre licence ou votre accès au logiciel doivent satisfaire aux exigences suivantes:",
+        "line12":"·En utilisant le logiciel, vous ne pouvez pas empiéter sur les droits de propriété intellectuelle, la vie privée ou d’autres droits de tiers. La licence ou l’accès au logiciel doit satisfaire aux exigences suivantes:",
+        "line13":"·Lorsque vous utilisez le logiciel, vous ne pouvez enfreindre aucune loi, règle ou procédure de votre pays ou de n’importe quelle juridiction où nous sommes situés.",
+        "line14":".Vous ne pouvez enfreindre aucune des politiques supplémentaires prévues dans nos conditions d’utilisation  ",
+        "line15":"·Vous ne pouvez utiliser nos logiciels que par le canal spécifique que nous fournissons.",
+        "line16":"·Vous ne pouvez pas utiliser ce logiciel sur des ordinateurs utilisés pour exploiter des installations nucléaires, des supports de vie ou d’autres applications critiques de la mission où des vies ou des biens pourraient être menacés.",
+        "line17":"Vous ne pouvez vendre, louer, prêter, distribuer, céder ou sous-licencier le logiciel ou l’accès au logiciel, ni tirer des recettes de l’utilisation ou de la mise à disposition du logiciel, sauf si cela est rendu possible par les fonctionnalités du logiciel de la société. Si, à notre jugement raisonnable, nous estimons que vous avez enfreint les restrictions énumérées, nous pouvons, à notre jugement, retirer votre licence d’utilisation du logiciel. En outre, nous pouvons retirer votre licence ou limiter votre accès à nos logiciels si nous estimons que vos actions pourraient nous nuire ou à l’un de nos utilisateurs. Notre incapacité à retirer votre autorisation ou à limiter l’accès ne constitue pas une renonciation à vos actes."
+    },
+    "success":{
+        "success":"Succès des paiements",
+        "orderNumber":"Numéro d’ordre：",
+        "time":"Délai de paiement:",
+        "code":"Le système a envoyé le code d’activation à votre boîte à lettres de commande.",
+        "kefu":" Pour toute question, veuillez contacter le service clientèle：service@fingerprintguarder.com"
+    },
+    "footer": {
+        "nav": "Navigation",
+        "legal":"Déclaration juridique",
+        "agreement":"Protocole utilisateur",
+        "contact":"Contactez - nous",
+        "cooperation":"Coopération commerciale",
+        "suggestions":"Recommandations concernant les plaintes",
+        "customer_service":"Service à la clientèle"
+    },
+    "model":{
+        "title":"Acheter un paquet de codes d'activation",
+        "number":"Nombre de codes d'activation:",
+        "placeholder":"Pour recevoir le Code d'activation, veuillez vérifier attentivement!",
+        "email":"E - mail：",
+        "useType":"Durée de vie:",
+        "6_months":"6 mois",
+        "12_months":"12 mois",
+        "amount":"Montant du paiement:",
+        "methods":"Mode de paiement:",
+        "pay":"Pour payer"
+    }
+
+   
+
+}

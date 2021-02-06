@@ -43,6 +43,6 @@ body {
   right: 0;
   margin: auto;
   position: relative;
-  top: 120px;
+  top: 64px;
 }
 </style>

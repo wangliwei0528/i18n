@@ -6,7 +6,9 @@ import i18n from '@/plugins/i18n' // 导入vue-i18n
 Vue.prototype.$axios = axios 
 
 Vue.config.productionTip = false
-
+import ElementUI from 'element-ui';
+import 'element-ui/lib/theme-chalk/index.css';
+Vue.use(ElementUI);
 new Vue({
   router,
   i18n, // 此处需要挂载上i18n，不要忘记

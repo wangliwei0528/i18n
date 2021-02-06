@@ -1,5 +1,131 @@
 {
-    "message": {
-      "greeting": "hello"
+    "lang": {
+        "chinese": "中文",
+        "english": "English",
+        "deutsch": "Deutsch",
+        "français": "français",
+        "español": "español"
+    },
+    "title": {
+        "home": "Product",
+        "case": "Case",
+        "price": "Pricing",
+        "download": "Download",
+        "help": "Help",
+        "contact": "Contact"
+    },
+    "home": {
+        "text1": "Fingerprint Guarder",
+        "text2": "The industry leader in anti-fingerprint detection",
+        "btn-left": "Purchase",
+        "btn-right": "Download",
+        "drop": "Slide the mouse down",
+        "title1": "core function",
+        "title2": "product superiority",
+        "item1": "Browser fingerprint",
+        "desc1": "Each startup provides a new browser fingerprint",
+        "item2": "Anti-fingerprint detection",
+        "desc2": "The latest anti-fingerprint detection technology",
+        "item3": "Multitasking scenario support",
+        "desc3": "Support mainstream questionnaires and AD alliance task scenarios",
+        "item4": "High pass rate for tasks",
+        "desc4": "Anti-fingerprint detection improves the task pass rate",
+        "item5": "IP proxy support",
+        "desc5": "Adapt to mainstream agent IP on the market",
+        "item6": "automatic operation",
+        "desc6": "Provide browser automation solution",
+        "link": "friendly link",
+        "select": "select"
+    },
+    "case": {
+        "case-title1": "Questionnaire Task",
+        "case-title2": "Advertising Alliance Mission",
+        "case-title3": "Affiliate Marketing",
+        "case-title4": "web spider",
+        "case-desc1": "A new and unique browser fingerprint can be obtained for each questionnaire task",
+        "case-desc2": "Provide a new and unique browser fingerprint for each task",
+        "case-desc3": "The use of multiple advertising accounts, can be batch operation, improve the delivery flow, improve ROI",
+        "case-desc4": "Provide ready-made fingerprint call interface, rapid development"
+    },
+    "price": {
+        "title1": "standard edition",
+        "title2": "Exclusive customized version",
+        "desc1": "$500 per unit/year",
+        "desc2": "1 activation code/at the same time /1 browser used",
+        "desc3": " Multiple browsers cannot use the same activation code to work at the same time",
+        "desc4": "The plug-in icon is green for working and red for failing (the browser may wait a few seconds at startup due to loading delays).",
+        "desc5": "Provide targeted anti - detection function to the target website",
+        "desc6": "Exclusive customer service consultant：service@fingerprintguarder.com",
+        "left-btn": "Purchase activation code",
+        "right-btn": "contact the customer service"
+    },
+    "download": {
+        "download1": "Download the Google browser version",
+        "download2": "Download the Firefox version"
+    },
+    "help": {
+        "title": "Welcome to the Fingerprint Guard Help Center, where you can find instructions on how to use Fingerprint Guard. You can also contact us (service@fingerprintguarder.com) for more help.",
+        "step": "Using the step",
+        "step1": "Purchase to get the activation code ",
+        "step2": "Download and unpack the installation package ",
+        "step3": "Open the Chrome address bar and type in Chrome :// Extensions /. Open Developer mode on the right ",
+        "step4": "Click Load the unzipped extension and select the folder where the installation package is unzipped",
+        "step5": "Enter the activation code to activate",
+        "step6": "Restart the browser to see the fingerprint information of the changes"
+    },
+    "contact": {
+        "contact1": "Our working hours are Monday through Friday from 9:00 a.m. to 6:00 p.m",
+        "contact2": "business cooperation：business@fingerprintguarder.com ",
+        "contact3": "complaint and advice：suggestion@fingerprintguarder.com",
+        "contact4": "customer service：service@fingerprintguarder.com ",
+        "contact5": "Users are welcome to Email us to contact our customer service"
+    },
+    "agreement": {
+        "title": "user agreement",
+        "line1": "1. Welcome to Fingerprint Guard's User Agreement.",
+        "line2": "This Agreement is a license to you and to the users of the Software, the owners and operators of any downloadable software (the 'Software ') that is activated for use.",
+        "line3": "In this Agreement, the words' Fingerprint Guard ', 'we' and 'our' refer to our Fingerprint Guard in the context in which these words are used.",
+        "line4": "By clicking 'I agree', downloading any software or activating use, you agree to be bound by this Agreement, our Terms of Use and our Privacy Policy.",
+        "line5": "2.Grant of license",
+        "line6": "After registering and paying an appropriate fee for our software, we grant you a personal, non-commercial, non-exclusive, revocable, limited license to download a copy of our software to any computer or device, if necessary. You cannot share your license with anyone.",
+        "line7": "As a user, you do not acquire any ownership interest in any part of the software;",
+        "line8": "You have only received the above revocable license.",
+        "line9": "Your license or access to the software must meet the following requirements:",
+        "line10": "·You may not decompile, reverse engineer, disassemble, modify, rent, sell, translate, rent, lend, distribute, or create derivative works or improvements of the Software or any part thereof for any reason whatsoever. The license or access to the software must meet the following requirements:",
+        "line11": "·Except as provided under this Agreement, the Privacy Policy or any additional agreements, you may not share your licenses or access with any other party. Your license or access to the software must meet the following requirements:",
+        "line12": "·You may not infringe or infringe the intellectual property rights, privacy or other rights of any third party when using the software. The license or access to the software must meet the following requirements:",
+        "line13": "·You must not use this software in violation of any law, rule or procedure of your locality or any jurisdiction where we are located.",
+        "line14": "·You must not violate any additional policies set out in our Terms of Use",
+        "line15": "·You may not use our software except through a specific channel provided by us.",
+        "line16": "·You may not use this software on computers used to operate nuclear facilities, life support, or other mission-critical applications where life or property may be at risk.",
+        "line17": "You may not sell, rent, lend, distribute, transfer, or sublicenses the Software or access the Software, or receive revenue from the use or provision of the Software, except to the extent made possible by the functionality of our Software. If we believe in our reasonable judgment that you have violated the listed restrictions, we may revoke your license to use the software based on our judgment. In addition, we may revoke your license or restrict your access to our software if we believe that your actions may harm us or any of our users. Our failure to revoke your permission or limit access does not constitute a waiver of your action."
+    },
+    "success": {
+        "success": "payment success",
+        "orderNumber": "order number：",
+        "time": "time of payment:",
+        "code": "The system has sent the activation code to your order mailbox, please note that check!",
+        "kefu": " If you have any questions, please contact our customer service：service@fingerprintguarder.com"
+    },
+    "footer": {
+        "nav": "Navigation",
+        "legal": "Legal statement",
+        "agreement": "User agreement",
+        "contact": "Contact us",
+        "cooperation": "Business cooperation",
+        "suggestions": "Complaints and suggestions",
+        "customer_service": "customer service"
+    },
+    "model":{
+        "title":"Purchase activation code cover",
+        "number":"Number of activation codes:",
+        "placeholder":"For receiving activation code, please check carefully!",
+        "email":"Email：",
+        "useType":"Service life：",
+        "6_months":"6 months",
+        "12_months":"12 months",
+        "amount":"Payment amount:",
+        "methods":"Payment method:",
+        "pay":"To pay"
     }
-  }
+}

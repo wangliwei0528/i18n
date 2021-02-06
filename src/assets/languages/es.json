@@ -1,0 +1,135 @@
+{
+    "lang":{
+        "chinese":"中文",
+        "english":"English",
+        "deutsch":"Deutsch",
+        "français":"français",
+        "español":"español"
+    },
+    "title": {
+        "home": "Productos",
+        "case": "Casos",
+        "price": "Precio",
+        "download": "Descargar",
+        "help": "Ayuda",
+        "contact": "Contacto"
+      },
+    "home":{
+        "text1":"Fingerprint Guarder",
+        "text2":"Líder en la industria de detección de huellas digitales",
+        "btn-left":"Comprar",
+        "btn-right":"Descargar",
+        "drop":"Deslice el ratón hacia abajo",
+        "title1":"Funciones básicas",
+        "title2":"Ventajas del producto",
+        "item1":"Huellas digitales del navegador",
+        "desc1":"Cada lanzamiento proporciona una nueva huella digital del navegador",
+        "item2":"Protección contra la detección de huellas dactilares",
+        "desc2":"La última tecnología para la detección de huellas digitales",
+        "item3":"Soporte para escenarios multitarea",
+        "desc3":"Apoyar los cuestionarios y los escenarios de la misión de la coalición publicitaria",
+        "item4":"Alta tasa de aprobación de la misión",
+        "desc4":"La prevención de la detección de huellas digitales mejora la tasa de aprobación de la misión",
+        "item5":"Soporte para agentes de IP",
+        "desc5":"Adaptación de los principales agentes IP disponibles en el mercado",
+        "item6":"Automatización de la operación",
+        "desc6":"Ofrece UN esquema de automatización del navegador",
+        "link":"Enlaces",
+        "select":"Selección"
+    },
+    "case":{
+        "case-title1":"Tareas del cuestionario",
+        "case-title2":"Misión de la coalición de publicidad",
+        "case-title3":"Affiliate Marketing",
+        "case-title4":"Webcrawler",
+        "case-desc1":"Cada tarea del cuestionario permite obtener una nueva huella digital única del navegador",
+        "case-desc2":"Nuevas huellas digitales únicas para cada tarea",
+        "case-desc3":"El uso de varias cuentas de publicidad para la colocación permite la operación a granel para mejorar el flujo de lanzamiento y aumentar el ROI",
+        "case-desc4":"Una interfaz de llamada que proporciona huellas dactilares listas para el desarrollo rápido"
+
+    },
+    "price":{
+        "title1":"La versión estándar",
+        "title2":"Versión exclusiva a la medida",
+        "desc1":"$500 /1 año",
+        "desc2":"1 código de activación/al mismo tiempo /1 navegador utilizado",
+        "desc3":" Varios navegadores no pueden funcionar al mismo tiempo con el mismo código de activación",
+        "desc4":"El icono del plugin está en verde para que funcione correctamente y en rojo para que no funcione (el navegador puede tener que esperar unos segundos al iniciar debido al retraso en la carga)",
+        "desc5":"Proporcionar una función específica de prevención de detección para los sitios web de destino",
+        "desc6":"Exclusivo servicio de atención al cliente：service@fingerprintguarder.com",
+        "left-btn":"Comprar UN código de activación",
+        "right-btn":"Contact Customer Service"
+    },
+    "download":{
+        "download1":"Descargar la versión del navegador de google",
+        "download2":"Descargar la versión del navegador firefox"
+    },
+    "help":{
+        "title":"Bienvenidos al centro de ayuda de guardias de huellas dactilares, aquí hay instrucciones para el uso de guardias de huellas dactilares, también puede ponerse en contacto con nosotros（service@fingerprintguarder.com）Obtenga más ayuda.",
+        "step":"Pasos de uso",
+        "step1":"Compra el código de activación ",
+        "step2":"Descargue y descomprima el paquete de instalación",
+        "step3":"Abra la barra de direcciones de chrome y escriba chrome://extensions/ y abra el modo de desarrollador a la derecha",
+        "step4":"Haga clic en cargar la extensión descomprimida y seleccione la carpeta después de descomprimir el paquete de instalación",
+        "step5":"Introduzca el código de activación para la activación ",
+        "step6":"Reinicie su navegador para ver la información de las huellas dactilares cambiadas"
+    },
+    "contact":{
+        "contact1":"Nuestro horario de trabajo es de lunes a viernes de 9:00 am a 6:00 pm",
+        "contact2":"La cooperación comercial：business@fingerprintguarder.com ",
+        "contact3":"Las quejas sugerencias：suggestion@fingerprintguarder.com",
+        "contact4":"El Servicio al cliente：service@fingerprintguarder.com ",
+        "contact5":"Los usuarios son bienvenidos a enviarnos UN correo electrónico para ponerse en contacto con el servicio de atención al cliente"
+    },
+    "agreement":{
+        "title":"El Acuerdo de usuario",
+        "line1":"1. Bienvenidos al protocolo de usuario de fingerprint guard.",
+        "line2":"Este acuerdo es UN acuerdo que le autoriza a usted y a los usuarios del software, es decir, a los propietarios y operadores de cualquier software descargable ('software') y activable para su uso.",
+        "line3":"En este acuerdo, las palabras' guardián de huellas digitales', 'nosotros' y' nuestro 'se refieren a nuestro guardián de huellas digitales en el contexto del uso de estas palabras.",
+        "line4":"Al hacer clic en 'estoy de acuerdo', descargar cualquier software o activar el uso, usted está de acuerdo en recibir las restricciones de este acuerdo, nuestros términos de uso y nuestra política de privacidad.",
+        "line5":"2.Concesión de licencias",
+        "line6":"Después de registrarse y pagar las tasas correspondientes por nuestro software, le otorgamos una licencia personal, no comercial, no exclusiva, revocable y limitada, si es necesario, para descargar una copia de nuestro software en cualquier computadora o dispositivo. Usted no puede compartir su licencia con nadie.",
+        "line7":"Como usuario, usted no adquiere ningún derecho de propiedad en ninguna parte del software;",
+        "line8":"Usted simplemente recibe la licencia revocable mencionada anteriormente.",
+        "line9":"Su licencia o acceso al software debe cumplir con los siguientes requisitos: ",
+        "line10":"·Usted no puede descompilar, revertir la ingeniería, desmontar, modificar, alquilar, vender, traducir, arrendar, prestar, distribuir o crear trabajos derivados o mejoras del software o de cualquier parte del mismo por ninguna razón. La licencia o el acceso al software deben cumplir los siguientes requisitos: ",
+        "line11":"·Usted no compartirá su licencia o derechos de acceso con ninguna otra parte a excepción de lo dispuesto en 'este acuerdo', 'política de privacidad' o cualquier otro acuerdo adicional. Su licencia o acceso al software debe cumplir con los siguientes requisitos: ",
+        "line12":"·Al usar el software, usted no debe violar ni violar los derechos de propiedad intelectual, privacidad u otros derechos de terceros. La licencia o el acceso al software deben cumplir los siguientes requisitos: ",
+        "line13":"·Al usar el software, usted no debe violar ninguna ley, regla o procedimiento en su lugar o en cualquiera de las jurisdicciones en las que estamos ubicados.  ",
+        "line14":"·Usted no debe violar ninguna de las políticas adicionales establecidas en nuestros términos de uso  ",
+        "line15":"·Usted no puede usar nuestro software a menos que sea a través de UN canal específico proporcionado por nosotros.",
+        "line16":"·Usted no debe usar el software en computadoras que se utilizan para operar instalaciones nucleares, soporte de vida u otras aplicaciones críticas de la misión que puedan estar en riesgo de vida o propiedad.",
+        "line17":"Usted no puede vender, alquilar, prestar, distribuir, ceder o sublicenciar el software o acceder al software, o obtener ingresos del uso o suministro del software, a menos que sea posible a través de las funciones del software de la compañía. Si creemos, a nuestro juicio razonable, que usted ha violado las restricciones enumeradas, podemos, a nuestro juicio, revocar su licencia para usar el software. Además, podemos revocar su licencia o restringir su acceso a nuestro software si consideramos que sus acciones pueden dañarnos a nosotros o a cualquiera de nuestros usuarios. Nuestra incapacidad para revocar su permiso o restringir el acceso no constituye una renuncia a sus acciones."
+    },
+    "success":{
+        "success":"Éxito en el pago",
+        "orderNumber":"La Orden No.：",
+        "time":"El tiempo de pago:",
+        "code":"El sistema ha enviado el código de activación a su correo electrónico de pedido.",
+        "kefu":" Por favor, póngase en contacto con el servicio de atención al cliente para cualquier pregunta：service@fingerprintguarder.com"
+    },
+    "footer": {
+        "nav": "Navegación",
+        "legal":"Declaración jurídica",
+        "agreement":"Protocolo de usuario",
+        "contact":"Contáctenos.",
+        "cooperation":"Cooperación comercial",
+        "suggestions":"Propuesta de denuncia",
+        "customer_service":"Servicio al cliente"
+    },
+    "model":{
+        "title":"Comprar un conjunto de códigos de activación",
+        "number":"Número de códigos de activación:",
+        "placeholder":"¡Para recibir el Código de activación, por favor verifique cuidadosamente!",
+        "email":"Buzón de correo：",
+        "useType":"Vida útil del buzón de correo:",
+        "6_months":"6 meses",
+        "12_months":"12 meses",
+        "amount":"Importe pagado:",
+        "methods":"Método de pago:",
+        "pay":"Para pagar"
+    }
+
+   
+
+}

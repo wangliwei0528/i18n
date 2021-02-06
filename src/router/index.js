@@ -6,6 +6,8 @@ import Price from '../components/page/price/Price'
 import Download from '../components/page/download/Download'
 import Help from '../components/page/help/Help'
 import Contact from '../components/page/contact/Contact'
+import Agreement from '../components/page/user-agreement/user-agreement'
+import Success from '../components/page/success/Success'
 
 Vue.use(Router)
 
@@ -33,6 +35,14 @@ const router = [
   {
     path:'/contact',
     component:Contact
+  },
+  {
+    path:'/agreement',
+    component:Agreement
+  },
+  {
+    path:'/success',
+    component:Success
   }
   
 ]
